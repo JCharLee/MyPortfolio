@@ -1,0 +1,1608 @@
+fileFormatVersion: 2
+guid: 00820dab37f16064887be4caaadd611d
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -4458955599934282416
+    second: Run [22]
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'creature/sylvanas/sylvanas_bone_3'
+      : position error = 1.735537 mm\n\t'creature/sylvanas/sylvanas_bone_8' : position
+      error = 1.707099 mm\n\t'creature/sylvanas/sylvanas_bone_22' : position error
+      = 7.035483 mm\n\t'creature/sylvanas/sylvanas_bone_23' : position error = 7.022270
+      mm\n\t'creature/sylvanas/sylvanas_bone_79' : position error = 6.678271 mm\n\t'creature/sylvanas/sylvanas_bone_95'
+      : position error = 6.661359 mm\nCopied Avatar Rig Configuration mis-match.
+      Inbetween bone rotation in copied configuration does not match rotation in
+      animation file:\n\t'creature/sylvanas/sylvanas_bone_35' : rotation error =
+      8.681088 deg\n\t'creature/sylvanas/sylvanas_bone_68' : rotation error = 11.893638
+      deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Run [22]' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'creature/sylvanas/sylvanas_bone_2' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_12'
+      has translation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_19'
+      has translation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_13'
+      has translation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_20'
+      has translation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_3'
+      has translation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_8'
+      has translation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_15'
+      has translation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_35'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_68'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'creature/sylvanas/sylvanas_bone_95'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run [22]
+      takeName: Run [22]
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: creature/sylvanas/sylvanas_bone_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_7
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_6
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_13
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_12
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_29
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_28
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_8
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_26
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_45
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_22
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_23
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_30
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_32
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_40
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_41
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_47
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_52
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_37
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_36
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_79
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_111
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_95
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_99
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_124
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_98
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_123
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_96
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_121
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_101
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_125
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_97
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_122
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_108
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_129
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_105
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_128
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_104
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_127
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_103
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_126
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_109
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_130
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: creature/sylvanas/sylvanas_bone_15
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Sylvanas(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: creature/sylvanas/sylvanas
+      parentName: Sylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: creature/sylvanas/sylvanas_rig
+      parentName: Sylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: creature/sylvanas/sylvanas_bone_0
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_1
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.0065850443, y: 0.00010927072, z: 0.5805387}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_2
+      parentName: creature/sylvanas/sylvanas_bone_1
+      position: {x: -0.0000000037252903, y: 0, z: -0.0066096187}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_4
+      parentName: creature/sylvanas/sylvanas_bone_2
+      position: {x: -0.05239211, y: 0.000000023603205, z: 0.004922271}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_9
+      parentName: creature/sylvanas/sylvanas_bone_4
+      position: {x: -0, y: 0, z: -0.05371779}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_16
+      parentName: creature/sylvanas/sylvanas_bone_9
+      position: {x: -0, y: 0, z: -0.07702157}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_5
+      parentName: creature/sylvanas/sylvanas_bone_2
+      position: {x: 0.06891802, y: -0.00010926041, z: -0.004149437}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_10
+      parentName: creature/sylvanas/sylvanas_bone_5
+      position: {x: 0.003749974, y: 0.00043044228, z: -0.06411588}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_17
+      parentName: creature/sylvanas/sylvanas_bone_10
+      position: {x: -0, y: 0, z: -0.04995879}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_6
+      parentName: creature/sylvanas/sylvanas_bone_2
+      position: {x: 0.0065850485, y: -0.0412751, z: -0.015412985}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_11
+      parentName: creature/sylvanas/sylvanas_bone_6
+      position: {x: 0.000042909756, y: 0, z: -0.2578393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_18
+      parentName: creature/sylvanas/sylvanas_bone_11
+      position: {x: -0.029351372, y: 0.0039392635, z: -0.0015335083}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_12
+      parentName: creature/sylvanas/sylvanas_bone_6
+      position: {x: 0.000042909756, y: 0, z: -0.2578393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_19
+      parentName: creature/sylvanas/sylvanas_bone_12
+      position: {x: 0.030246831, y: 0, z: -0.25997123}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_28
+      parentName: creature/sylvanas/sylvanas_bone_19
+      position: {x: 0.0000000372529, y: 0.00021847709, z: -0.000000026077032}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000027, y: 0.9999983, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_36
+      parentName: creature/sylvanas/sylvanas_bone_28
+      position: {x: -0.08138389, y: 0, z: -0.026878735}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_189
+      parentName: creature/sylvanas/sylvanas_bone_28
+      position: {x: 0.000000011175871, y: 0.000000033527613, z: -0.000000014901161}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_176
+      parentName: creature/sylvanas/sylvanas_bone_12
+      position: {x: -0.06054047, y: 0.00014489144, z: -0.0071455236}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_174
+      parentName: creature/sylvanas/sylvanas_bone_6
+      position: {x: 0.03269093, y: -0.0644137, z: -0.0404368}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_7
+      parentName: creature/sylvanas/sylvanas_bone_2
+      position: {x: 0.0065850485, y: 0.041056577, z: -0.015412985}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_13
+      parentName: creature/sylvanas/sylvanas_bone_7
+      position: {x: 0.000042909756, y: 0, z: -0.2578393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_20
+      parentName: creature/sylvanas/sylvanas_bone_13
+      position: {x: 0.030246831, y: 0, z: -0.25997123}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000024, y: 0.9999986, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_29
+      parentName: creature/sylvanas/sylvanas_bone_20
+      position: {x: -0.000000011175871, y: 0, z: 0.00000001862645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_37
+      parentName: creature/sylvanas/sylvanas_bone_29
+      position: {x: -0.08138379, y: 0, z: -0.026878787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_190
+      parentName: creature/sylvanas/sylvanas_bone_29
+      position: {x: -0.0000000037252903, y: -0.000000052154064, z: -0.000000026077032}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_178
+      parentName: creature/sylvanas/sylvanas_bone_13
+      position: {x: -0.05844604, y: -0.000000026077032, z: -0.005436361}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_14
+      parentName: creature/sylvanas/sylvanas_bone_7
+      position: {x: 0.000042909756, y: 0, z: -0.2578393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_21
+      parentName: creature/sylvanas/sylvanas_bone_14
+      position: {x: -0.029290205, y: -0.0039375275, z: -0.0015367566}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_173
+      parentName: creature/sylvanas/sylvanas_bone_7
+      position: {x: 0.03269093, y: 0.06441366, z: -0.040436864}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_167
+      parentName: creature/sylvanas/sylvanas_bone_2
+      position: {x: 0.007726987, y: 0.081267506, z: 0.014229476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_170
+      parentName: creature/sylvanas/sylvanas_bone_2
+      position: {x: 0.0077266167, y: -0.076643586, z: 0.014229476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_3
+      parentName: creature/sylvanas/sylvanas_bone_1
+      position: {x: 0.0000000027939677, y: 0, z: 0.0066096187}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_8
+      parentName: creature/sylvanas/sylvanas_bone_3
+      position: {x: -0.0057303654, y: -0.00010926041, z: 0.033948656}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_15
+      parentName: creature/sylvanas/sylvanas_bone_8
+      position: {x: 0.0043662945, y: 0, z: 0.07700353}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_22
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.014940996, y: 0.019308295, z: 0.09889942}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000025, y: 0.9999985, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_30
+      parentName: creature/sylvanas/sylvanas_bone_22
+      position: {x: 0.014896949, y: 0.053114135, z: 0.002266407}
+      rotation: {x: 0.46321577, y: 0.000000065227255, z: 0.02452028, w: 0.8859063}
+      scale: {x: 1.0000002, y: 1.0000031, z: 0.99999756}
+    - name: creature/sylvanas/sylvanas_bone_38
+      parentName: creature/sylvanas/sylvanas_bone_30
+      position: {x: 0.006532483, y: 0.079021774, z: -0.123406224}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_39
+      parentName: creature/sylvanas/sylvanas_bone_30
+      position: {x: 0.0032662414, y: 0.039510872, z: -0.061703082}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_40
+      parentName: creature/sylvanas/sylvanas_bone_30
+      position: {x: 0.006532483, y: 0.079021774, z: -0.123406224}
+      rotation: {x: 0.012255843, y: -0.061466526, z: -0.042014424, w: 0.99714917}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_46
+      parentName: creature/sylvanas/sylvanas_bone_40
+      position: {x: -0.048834585, y: -0.1514442, z: -0.6758599}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_202
+      parentName: creature/sylvanas/sylvanas_bone_46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_203
+      parentName: creature/sylvanas/sylvanas_bone_46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_47
+      parentName: creature/sylvanas/sylvanas_bone_40
+      position: {x: -0.024729688, y: 0.07310313, z: -0.11416321}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_96
+      parentName: creature/sylvanas/sylvanas_bone_47
+      position: {x: -0.013759827, y: 0.026436342, z: -0.0518955}
+      rotation: {x: 0.07421707, y: 0.017111152, z: -0.010961602, w: 0.9970351}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_121
+      parentName: creature/sylvanas/sylvanas_bone_96
+      position: {x: -0.005843765, y: 0.004992515, z: -0.031772852}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_97
+      parentName: creature/sylvanas/sylvanas_bone_47
+      position: {x: 0.006886082, y: 0.021455167, z: -0.053548753}
+      rotation: {x: 0.11125786, y: 0.079963975, z: 0.011235526, w: 0.9905056}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000011}
+    - name: creature/sylvanas/sylvanas_bone_122
+      parentName: creature/sylvanas/sylvanas_bone_97
+      position: {x: 0.0004175529, y: 0.0031616986, z: -0.026637316}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_98
+      parentName: creature/sylvanas/sylvanas_bone_47
+      position: {x: -0.026145555, y: 0.021059182, z: -0.049831804}
+      rotation: {x: 0.030527111, y: 0.008634571, z: -0.003695518, w: 0.99948984}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_123
+      parentName: creature/sylvanas/sylvanas_bone_98
+      position: {x: -0.005549657, y: 0.007221535, z: -0.028970418}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000008}
+    - name: creature/sylvanas/sylvanas_bone_99
+      parentName: creature/sylvanas/sylvanas_bone_47
+      position: {x: -0.02409536, y: 0.0031788796, z: -0.031243442}
+      rotation: {x: 0.075229034, y: 0.15840124, z: -0.05539545, w: 0.9829451}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000012}
+    - name: creature/sylvanas/sylvanas_bone_124
+      parentName: creature/sylvanas/sylvanas_bone_99
+      position: {x: -0.017073449, y: -0.00037030876, z: -0.024245143}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_100
+      parentName: creature/sylvanas/sylvanas_bone_47
+      position: {x: -0.024104903, y: -0.22454734, z: -0.56169677}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_211
+      parentName: creature/sylvanas/sylvanas_bone_100
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_101
+      parentName: creature/sylvanas/sylvanas_bone_47
+      position: {x: -0.002392225, y: 0.026629493, z: -0.052874506}
+      rotation: {x: 0.105300084, y: 0.041998345, z: -0.006525127, w: 0.9935318}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_125
+      parentName: creature/sylvanas/sylvanas_bone_101
+      position: {x: -0.0031000357, y: 0.003144264, z: -0.029789327}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_102
+      parentName: creature/sylvanas/sylvanas_bone_47
+      position: {x: -0.024104903, y: -0.22454734, z: -0.56169677}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_205
+      parentName: creature/sylvanas/sylvanas_bone_102
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_207
+      parentName: creature/sylvanas/sylvanas_bone_102
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_215
+      parentName: creature/sylvanas/sylvanas_bone_207
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_209
+      parentName: creature/sylvanas/sylvanas_bone_102
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_213
+      parentName: creature/sylvanas/sylvanas_bone_102
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_48
+      parentName: creature/sylvanas/sylvanas_bone_40
+      position: {x: -0.012364844, y: 0.0365515, z: -0.05708158}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_49
+      parentName: creature/sylvanas/sylvanas_bone_40
+      position: {x: -0.024729688, y: 0.07310313, z: -0.11416321}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_195
+      parentName: creature/sylvanas/sylvanas_bone_40
+      position: {x: 0.02132272, y: -0.0004117489, z: 0.0010033846}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_188
+      parentName: creature/sylvanas/sylvanas_bone_30
+      position: {x: -0.00016732886, y: -0.013799492, z: 0.02739638}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_31
+      parentName: creature/sylvanas/sylvanas_bone_22
+      position: {x: 0.014241863, y: 0.06500197, z: 0.015159011}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_23
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.014940977, y: -0.019310417, z: 0.0988996}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000017, y: 0.999999, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_32
+      parentName: creature/sylvanas/sylvanas_bone_23
+      position: {x: 0.014896968, y: -0.053112015, z: 0.0022662282}
+      rotation: {x: -0.46321574, y: -0.00000006429593, z: -0.024520269, w: 0.88590634}
+      scale: {x: 1.0000004, y: 1.0000027, z: 0.9999985}
+    - name: creature/sylvanas/sylvanas_bone_41
+      parentName: creature/sylvanas/sylvanas_bone_32
+      position: {x: 0.006532471, y: -0.07902172, z: -0.123406164}
+      rotation: {x: -0.012249944, y: -0.06146524, z: 0.04201383, w: 0.9971494}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_50
+      parentName: creature/sylvanas/sylvanas_bone_41
+      position: {x: -0.012364823, y: -0.036551565, z: -0.05708158}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_51
+      parentName: creature/sylvanas/sylvanas_bone_41
+      position: {x: -0.024729673, y: -0.073103145, z: -0.11416321}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_52
+      parentName: creature/sylvanas/sylvanas_bone_41
+      position: {x: -0.024729714, y: -0.07310581, z: -0.1141628}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_103
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.0023922287, y: -0.026629178, z: -0.052874982}
+      rotation: {x: -0.10529422, y: 0.041996285, z: 0.006524587, w: 0.99353254}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000008}
+    - name: creature/sylvanas/sylvanas_bone_126
+      parentName: creature/sylvanas/sylvanas_bone_103
+      position: {x: -0.0031000057, y: -0.0031444132, z: -0.029788941}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000011, z: 1.0000006}
+    - name: creature/sylvanas/sylvanas_bone_104
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.013759789, y: -0.026436118, z: -0.051895797}
+      rotation: {x: -0.07422915, y: 0.017113093, z: 0.010963708, w: 0.99703413}
+      scale: {x: 1.0000004, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_127
+      parentName: creature/sylvanas/sylvanas_bone_104
+      position: {x: -0.005843778, y: -0.00499171, z: -0.031773686}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000006, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_105
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.02614552, y: -0.021058349, z: -0.049831923}
+      rotation: {x: -0.03051607, y: 0.008632237, z: 0.003693754, w: 0.99949026}
+      scale: {x: 1.0000011, y: 1.0000018, z: 1.0000008}
+    - name: creature/sylvanas/sylvanas_bone_128
+      parentName: creature/sylvanas/sylvanas_bone_105
+      position: {x: -0.005549672, y: -0.0072222347, z: -0.028970895}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: creature/sylvanas/sylvanas_bone_106
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.024104867, y: 0.22454998, z: -0.56169724}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_208
+      parentName: creature/sylvanas/sylvanas_bone_106
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_212
+      parentName: creature/sylvanas/sylvanas_bone_106
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_107
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.024104867, y: 0.22454998, z: -0.56169724}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_206
+      parentName: creature/sylvanas/sylvanas_bone_107
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_214
+      parentName: creature/sylvanas/sylvanas_bone_206
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_210
+      parentName: creature/sylvanas/sylvanas_bone_107
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_108
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.024095321, y: -0.0031778065, z: -0.031244455}
+      rotation: {x: -0.075219885, y: 0.15839083, z: 0.055384517, w: 0.9829481}
+      scale: {x: 1.0000002, y: 1.0000011, z: 1.0000012}
+    - name: creature/sylvanas/sylvanas_bone_129
+      parentName: creature/sylvanas/sylvanas_bone_108
+      position: {x: -0.017073408, y: 0.0003694445, z: -0.024244485}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_109
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: 0.0068861074, y: -0.021454185, z: -0.053548574}
+      rotation: {x: -0.11124214, y: 0.07995822, z: -0.011236607, w: 0.9905077}
+      scale: {x: 1.0000005, y: 1.0000012, z: 1.0000011}
+    - name: creature/sylvanas/sylvanas_bone_130
+      parentName: creature/sylvanas/sylvanas_bone_109
+      position: {x: 0.00041749512, y: -0.003162518, z: -0.026637554}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: creature/sylvanas/sylvanas_bone_199
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.000000020489097, y: -0.00000010430813, z: -0.00000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_200
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.118845746, y: 0.08897277, z: -0.2112737}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_201
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: 0.000000009313225, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_204
+      parentName: creature/sylvanas/sylvanas_bone_52
+      position: {x: -0.000000013038516, y: -0.000000059604645, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_194
+      parentName: creature/sylvanas/sylvanas_bone_41
+      position: {x: 0.018461447, y: 0.010518803, z: -0.010559916}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000007}
+    - name: creature/sylvanas/sylvanas_bone_42
+      parentName: creature/sylvanas/sylvanas_bone_32
+      position: {x: 0.006532471, y: -0.07902172, z: -0.123406164}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: creature/sylvanas/sylvanas_bone_43
+      parentName: creature/sylvanas/sylvanas_bone_32
+      position: {x: 0.0032662414, y: -0.0395109, z: -0.06170314}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: creature/sylvanas/sylvanas_bone_191
+      parentName: creature/sylvanas/sylvanas_bone_32
+      position: {x: -0.0001659505, y: 0.013799388, z: 0.027393756}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: creature/sylvanas/sylvanas_bone_33
+      parentName: creature/sylvanas/sylvanas_bone_23
+      position: {x: 0.014241943, y: -0.06499986, z: 0.015158354}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: creature/sylvanas/sylvanas_bone_24
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: -0.031801574, y: 0.035922058, z: 0.04959798}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_25
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.0671576, y: 0, z: 0.06921619}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_34
+      parentName: creature/sylvanas/sylvanas_bone_25
+      position: {x: -0, y: 0, z: -0.11736959}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_44
+      parentName: creature/sylvanas/sylvanas_bone_34
+      position: {x: -0, y: 0, z: -0.11736959}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_53
+      parentName: creature/sylvanas/sylvanas_bone_44
+      position: {x: -0, y: 0, z: -0.117369555}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_110
+      parentName: creature/sylvanas/sylvanas_bone_53
+      position: {x: -0, y: 0, z: -0.117369555}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_26
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.02558167, y: 0, z: 0.127191}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_35
+      parentName: creature/sylvanas/sylvanas_bone_26
+      position: {x: -0.0031419992, y: 0, z: 0.024029791}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_45
+      parentName: creature/sylvanas/sylvanas_bone_35
+      position: {x: -0.0028361902, y: 0, z: 0.02519655}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_54
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.057935704, y: -0.008077257, z: 0.022593856}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_55
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.046438873, y: 0.021809632, z: 0.0019072293}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_56
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.04808614, y: 0.024441507, z: 0.014812469}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_57
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05780023, y: 0.013520285, z: 0.009097815}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_58
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.045053758, y: 0.01487847, z: 0.033364117}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_59
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05336796, y: 0.015691184, z: 0.05588227}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_60
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.054861277, y: 0.018499644, z: 0.04449868}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_61
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.044444125, y: 0.028908491, z: 0.04156285}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_62
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05388882, y: 0.017370397, z: 0.028470933}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_63
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.053404465, y: 0.01739388, z: 0.027218638}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_64
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05794663, y: -0.010422278, z: -0.001237452}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_65
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.0604649, y: -0.007665275, z: -0.000574708}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_66
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.06320949, y: -0.003499287, z: 0.0005591512}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_67
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05851959, y: -0.01022875, z: 0.04094338}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_68
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.005354451, y: -0.037958052, z: 0.03462118}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_111
+      parentName: creature/sylvanas/sylvanas_bone_68
+      position: {x: 0.034337938, y: -0.014250148, z: 0.044720825}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_69
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05780023, y: -0.013520285, z: 0.009097815}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_70
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.046438873, y: -0.021809632, z: 0.0019072293}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_71
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.04808614, y: -0.024441507, z: 0.014812469}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_72
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.0053543947, y: 0.037955776, z: 0.034621596}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_112
+      parentName: creature/sylvanas/sylvanas_bone_72
+      position: {x: 0.03433778, y: 0.014250043, z: 0.04472041}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_73
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05115363, y: 0.00000179988, z: 0.0032066703}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_74
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.053404465, y: -0.01739388, z: 0.027218638}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_75
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05388882, y: -0.017370397, z: 0.028470933}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_76
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05336796, y: -0.015691184, z: 0.05588227}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_77
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.057534087, y: -0.0068635475, z: 0.038223743}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_78
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.054861277, y: -0.018499644, z: 0.04449868}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_79
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.044444125, y: -0.028908491, z: 0.04156285}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_80
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.06417702, y: 0.0054166666, z: 0.01284337}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_81
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.06417702, y: -0.0054166666, z: 0.01284337}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_82
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.057534087, y: 0.0068635475, z: 0.038223743}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_83
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.06320949, y: 0.003499287, z: 0.0005591512}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_84
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.05794663, y: 0.010422278, z: -0.001237452}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_85
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.0604649, y: 0.007665275, z: -0.000574708}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_86
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.057935704, y: 0.008077257, z: 0.022593856}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_87
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.0585196, y: 0.010226409, z: 0.040943142}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_88
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.06015972, y: 0, z: 0.03904873}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_89
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.014316356, y: 0, z: 0.016910253}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_113
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.044537313, y: 0, z: -0.031612456}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_114
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.035934184, y: 0.0000017998802, z: -0.023130476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_115
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.04730598, y: -0.0035743816, z: -0.021573305}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_116
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.045127828, y: -0.0074183843, z: -0.02106446}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_117
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.042889737, y: -0.010444877, z: -0.020044625}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_118
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.045127828, y: 0.0074183843, z: -0.02106446}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_119
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.042889737, y: 0.010444877, z: -0.020044625}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_120
+      parentName: creature/sylvanas/sylvanas_bone_89
+      position: {x: -0.04730598, y: 0.0035743816, z: -0.021573305}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_90
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.06868657, y: -0.000039062503, z: 0.014149785}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_91
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.045053758, y: -0.014880832, z: 0.033364236}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_92
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.055040278, y: 0.029704208, z: 0.051361322}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_93
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.04079249, y: 0.060589094, z: 0.06450701}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_94
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.055040278, y: -0.029706527, z: 0.051361438}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_95
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.04079249, y: -0.06059138, z: 0.0645073}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_192
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.000000014901161, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_193
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.01167854, y: 0, z: 0.08723867}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_196
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_197
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.06702757, y: 0, z: -0.0020343065}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_198
+      parentName: creature/sylvanas/sylvanas_bone_45
+      position: {x: -0.07692645, y: 0.00012884881, z: -0.0022185445}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_27
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: -0.031801518, y: -0.035924166, z: 0.049598217}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_175
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.13405228, y: -0.08838433, z: 0.20760244}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_177
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.09183046, y: 0, z: 0.07306223}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_179
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.114003964, y: 0.08229785, z: 0.16874975}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_180
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: -0.000000020489097, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_181
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.09512429, y: -0.08900758, z: 0.17178296}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_182
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: -0.012464162, y: 0, z: 0.05681496}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_183
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.09810808, y: -0.0021365888, z: 0.014919043}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_184
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.111790545, y: 0.0009281427, z: 0.0556221}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_185
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.048758134, y: 0, z: 0.07270801}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_186
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.0000000046566124, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_187
+      parentName: creature/sylvanas/sylvanas_bone_15
+      position: {x: 0.10614856, y: 0.0007478401, z: 0.014892756}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_165
+      parentName: creature/sylvanas/sylvanas_bone_3
+      position: {x: -0.0000000018626451, y: 0.000000026484484, z: -0.00000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_166
+      parentName: creature/sylvanas/sylvanas_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_168
+      parentName: creature/sylvanas/sylvanas_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_169
+      parentName: creature/sylvanas/sylvanas_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_171
+      parentName: creature/sylvanas/sylvanas_bone_3
+      position: {x: 0.00000042375174, y: 0, z: -0.000000059604645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_172
+      parentName: creature/sylvanas/sylvanas_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_150
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.24070661, y: -0.030030971, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_151
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: 0.37447494, y: -0.06451526, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_152
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.06399245, y: 0.10655901, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_153
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.31397334, y: 0.034921765, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_154
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.2600471, y: -0.016774047, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_155
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.18376863, y: 0.02100065, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_156
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.3512745, y: 0.062250234, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_157
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.33908138, y: -0.07767925, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_158
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.19876766, y: -0.016774045, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_159
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_160
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: 0.013049398, y: -0.1352386, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_161
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.2305903, y: -0.0188909, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_162
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: 0.3709172, y: 0.032308478, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_163
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.21147451, y: 0.025922397, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_164
+      parentName: creature/sylvanas/sylvanas_bone_0
+      position: {x: -0.23658127, y: 0.016382275, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: creature/sylvanas/sylvanas_bone_131
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_132
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0.6268576}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_133
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_134
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0.1171145, y: -0.005192284, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_135
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 1.0226467}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_136
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_137
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_138
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0.23116784, y: 0.0036755397, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_139
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_140
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: 0.06186263, y: 0.01752385, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_141
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_142
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 1.0273752}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_143
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_144
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_145
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_146
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_147
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_148
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: creature/sylvanas/sylvanas_bone_149
+      parentName: creature/sylvanas/sylvanas_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000042146848, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4d7881124bb100d4aa38bec515305f6c,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
